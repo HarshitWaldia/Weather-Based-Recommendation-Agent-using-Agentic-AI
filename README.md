@@ -112,7 +112,7 @@ State Flow:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/weather-recommendation-agent.git
+git clone https://github.com/HarshitWaldia/Weather-Based-Recommendation-Agent-using-Agentic-AI.git
 cd weather-recommendation-agent
 ```
 
